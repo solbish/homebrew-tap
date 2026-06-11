@@ -1,6 +1,6 @@
 cask "stats" do
-  version "2.13.0"
-  sha256 "24faba02aa515104d39a0f82301b36d08783a006458e1cd736d8c4d49125521e"
+  version "3.0.2"
+  sha256 "77295868ea167a9970dfe3c71f52d711398b151b595308de1e06bbd23148f764"
 
   url "https://github.com/solbish/stats/releases/download/v#{version}/Stats.dmg"
   name "Stats"
